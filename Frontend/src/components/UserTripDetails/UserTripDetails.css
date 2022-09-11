@@ -1,0 +1,11 @@
+#tblUserCarInfo td {
+    padding-right: 100px;
+  }
+  
+  #tblUserCarInfo tr:last-child { 
+    border-bottom: none; 
+  }
+
+  td, th {
+    padding: 20px;
+}
